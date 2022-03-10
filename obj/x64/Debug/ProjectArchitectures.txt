@@ -1,0 +1,1 @@
+H:\github repo\NSFW IMAGE DETECTION\CBD_Image_Classification.csproj;x64

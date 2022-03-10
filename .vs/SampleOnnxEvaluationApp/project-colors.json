@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d4357184-82d4-484f-a683-c45f10cc0cd3": {
+      "ProjectGuid": "d4357184-82d4-484f-a683-c45f10cc0cd3",
+      "DisplayName": "CBD_Image_Classification",
+      "ColorIndex": 0
+    },
+    "c5e5a1e1-0210-4537-a31d-6732bba54673": {
+      "ProjectGuid": "c5e5a1e1-0210-4537-a31d-6732bba54673",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
